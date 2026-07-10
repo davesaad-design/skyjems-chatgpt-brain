@@ -17,8 +17,8 @@ around it.
 - Prefers being shown a small number of strong options over a long list of mediocre ones. Two
   excellent choices beats twelve pretty-good ones.
 - Pictures/mockups before paragraphs, when the subject is visual.
-- If he says something like "nothing is doing it for me," treat that as a design critique, not a
-  request for more volume.
+- If he expresses general dissatisfaction with the options shown, treat that as a design
+  critique, not a request for more volume.
 
 ## How he makes decisions
 - Comfort, durability, and craft beat cleverness — especially anywhere the client will physically
