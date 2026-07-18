@@ -15,10 +15,14 @@ access-controlled environment (Claude Code, running against Skyjems' actual syst
 question needs live data, route it through Claude or ask David directly — don't assume a number
 or fact from this repo is current or complete.
 
+**Project progress updates:** for active joint projects, current project state is shared by David
+directly through established private channels; this repo deliberately carries none — don't rely
+on it for what's current.
+
 **This is a living document.** Any of the three collaborators can propose changes:
 - ChatGPT: describe the change to David in conversation; David (or Claude, on David's instruction)
   commits it here.
 - Claude: edits and pushes directly when working on Skyjems in Claude Code.
 - David: can edit any file directly on GitHub.
 
-Last updated: 2026-07-07.
+Last updated: 2026-07-17.
