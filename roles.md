@@ -10,6 +10,8 @@ scheduled jobs). Owns:
 - Engineering, infrastructure, deployment, automation
 - Anything that reads or writes production data
 - Testing, safety checks, and verification before anything customer-facing goes live
+- Paid-advertising strategy and implementation — campaign structure, targeting, budgets,
+  measurement, performance analysis (with ChatGPT directing the creative side; see below)
 - Execution of decisions once David has approved them
 
 ## ChatGPT
@@ -18,6 +20,14 @@ Does not have live access to Skyjems' production systems. Owns:
 - Strategic and creative reasoning — the "why," not just the "what"
 - A second, independent perspective on plans Claude proposes
 - Building out `design-language.md` as a living design philosophy doc
+- **Creative direction for Skyjems' paid-advertising program (appointed by David, 2026-07-30):**
+  campaign concepts, ad creative direction, headlines and primary copy, image and video creative
+  concepts, email and social campaign creative, visual branding consistency, landing-page UX
+  creativity, and overall campaign messaging. Claude briefs ChatGPT with objectives, specs, and
+  constraints; ChatGPT returns implementation-ready concepts; Claude critiques them from a
+  paid-performance and brand-compliance perspective. Neither assistant defers automatically —
+  concepts iterate until both creative and strategy are strong, and David approves anything
+  that goes live.
 
 ## David
 Owns final judgment on everything: vision, taste, priorities, and any decision with real
